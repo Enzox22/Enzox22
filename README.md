@@ -1,7 +1,9 @@
 
 
 <!-- Banner -->
-<img src="banner.jpg" width="100%" alt="banner"/>
+<p align="center">
+  <img src="banner.jpg" width="70%" alt="banner"/>
+</p>
 
 <h2 align="center"> Enzo, Hi. </h2>
 
