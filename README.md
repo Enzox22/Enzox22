@@ -9,13 +9,7 @@
 
 <hr/>
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Desenvolvedor-b8860b?style=flat&labelColor=0d2a45"/>
-  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20IA-b8860b?style=flat&labelColor=0d2a45"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Connect-b8860b?style=flat&labelColor=0d2a45"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Enzox22.Enzox22&left_text=Profile%20views&left_color=%230d2a45&right_color=%23b8860b"/>
-</p>
+
 
 
 <div align="center">
