@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Role-Desenvolvedor-b8860b?style=flat&labelColor=0d2a45"/>
   <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20IA-b8860b?style=flat&labelColor=0d2a45"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Connect-b8860b?style=flat&labelColor=0d2a45"/>
-  <img src="https://komarev.com/ghpvc/?username=Enzox22&label=Profile%20views&color=b8860b&style=flat"/>
 </p>
 
 
